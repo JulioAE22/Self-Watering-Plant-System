@@ -2,6 +2,8 @@
 Arduino-based automatic plant watering system using soil moisture sensors and water valves.
 # SAMI — Self-Watering Plant System
 
+![SAMI Self-Watering Plant System](IMG_3840.jpeg)
+
 SAMI (Semi-Automated Micro Irrigator) is an Arduino-based
 automatic plant watering system designed to monitor soil
 moisture and provide water when plants become too dry.
